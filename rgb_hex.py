@@ -1,4 +1,4 @@
-RGB = list(input("").split(" "))
+RGB = list(input("").split(" ")) #r,g,b to hex converter
 R = int(RGB[0])
 G = int(RGB[1])
 B = int(RGB[2])
